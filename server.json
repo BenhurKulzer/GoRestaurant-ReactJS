@@ -2,11 +2,11 @@
   "foods": [
     {
       "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Ao molho Barbecue",
       "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "available": true
     },
     {
       "id": 2,
@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 4,
+      "image": "https://img.elo7.com.br/product/zoom/22565B3/adesivo-parede-prato-comida-frango-salada-restaurante-lindo-adesivo-parede.jpg",
+      "name": "Coelho a moda do condado",
+      "price": "75.40",
+      "description": "Um delicioso prato medieval",
+      "available": true
     }
   ]
 }
